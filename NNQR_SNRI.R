@@ -2,7 +2,7 @@
 # clear all variables
 rm(list = ls(all = TRUE))
 graphics.off()
-setwd("C:/Users/Georg_PC/Documents/Thesis/Final_20180626/Code")
+setwd("~/Desktop/Thesis/20180626_Final/Code")
 
 
 # install and load packages
